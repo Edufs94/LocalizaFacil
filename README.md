@@ -44,3 +44,4 @@ Para rodar o mobile, instale o aplicativo Expo Go no celular.
 👨‍💻 Desenvolvedores
 Projeto desenvolvido por:
 -Eduardo Freitas Santos
+-Denilson Bernardes Gonçalves
