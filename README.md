@@ -46,3 +46,4 @@ Projeto desenvolvido por:
 -Eduardo Freitas Santos
 -Denilson Bernardes Gonçalves
 -João Vitor Diniz Martins 
+- Alanna Cristina Santos Dias 
