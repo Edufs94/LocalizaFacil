@@ -43,7 +43,8 @@ Para rodar o mobile, instale o aplicativo Expo Go no celular.
 
 👨‍💻 Desenvolvedores
 Projeto desenvolvido por:
--Eduardo Freitas Santos
--Denilson Bernardes Gonçalves
--João Vitor Diniz Martins 
+
+- Eduardo Freitas Santos
+- Denilson Bernardes Gonçalves
+- João Vitor Diniz Martins 
 - Alanna Cristina Santos Dias 
