@@ -45,3 +45,4 @@ Para rodar o mobile, instale o aplicativo Expo Go no celular.
 Projeto desenvolvido por:
 -Eduardo Freitas Santos
 -Denilson Bernardes Gonçalves
+-João Vitor Diniz Martins 
