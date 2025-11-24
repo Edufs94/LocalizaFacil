@@ -50,3 +50,4 @@ Projeto desenvolvido por:
 - Alanna Cristina Santos Dias
 - Arthur Constantino da silva Rios
 - Luis Felipe Vieira da Silva
+- Gustavo Antônio da Silva Teixeira
